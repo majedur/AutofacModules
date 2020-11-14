@@ -1,0 +1,16 @@
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\AutofacModules.exe
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\AutofacModules.deps.json
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\AutofacModules.runtimeconfig.json
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\AutofacModules.runtimeconfig.dev.json
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\AutofacModules.dll
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\AutofacModules.pdb
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.csprojAssemblyReference.cache
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.AssemblyInfoInputs.cache
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.AssemblyInfo.cs
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.dll
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.pdb
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.genruntimeconfig.cache
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\Autofac.dll
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.csproj.CoreCompileInputs.cache
+G:\Learning\Autofac\AutofacModules\AutofacModules\AutofacModules\obj\Debug\netcoreapp3.1\AutofacModules.csproj.CopyComplete
